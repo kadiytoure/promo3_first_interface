@@ -7,7 +7,7 @@ height: number;
 species: string;
 color: string;
 age: number;
-constructor(height: number, species: string, color: string, age: number ) {
+constructor(height: number, species: string, color: string, age: number) {
     this.height = height;
     this.species = species;
     this.color = color;
