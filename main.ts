@@ -19,4 +19,4 @@ class Person {
 
 let n = new Ninja();
 let p = new Person();
-let fighter: Fighter = n;
+let f: Fighter = p;
